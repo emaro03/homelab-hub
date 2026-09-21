@@ -41,7 +41,7 @@ A few principles that show up across every repo here:
 
 ## 🏗️ High-level architecture
 
-See [`docs/architecture.md`](https://github.com/emaro03/homelab-hub/blob/main/architecture.md) for the full diagram and write-up of how these pieces fit together (network flow, hypervisor layout, exposure via Cloudflare Tunnel/Tailscale instead of open ports).
+See [`docs/architecture.md`](/architecture.md) for the full diagram and write-up of how these pieces fit together (network flow, hypervisor layout, exposure via Cloudflare Tunnel/Tailscale instead of open ports).
 
 ---
 
