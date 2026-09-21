@@ -41,7 +41,7 @@ A few principles that show up across every repo here:
 
 ## 🏗️ High-level architecture
 
-See [`docs/architecture.md`](docs/architecture.md) for the full diagram and write-up of how these pieces fit together (network flow, hypervisor layout, exposure via Cloudflare Tunnel/Tailscale instead of open ports).
+See [`docs/architecture.md`](https://github.com/emaro03/homelab-hub/blob/main/architecture.md) for the full diagram and write-up of how these pieces fit together (network flow, hypervisor layout, exposure via Cloudflare Tunnel/Tailscale instead of open ports).
 
 ---
 
@@ -50,7 +50,7 @@ See [`docs/architecture.md`](docs/architecture.md) for the full diagram and writ
 | Role | Device | Notes |
 |---|---|---|
 | Primary host | Dell Optiplex 3040 | i7-6700T (4c), 12GB RAM, 1TB SSD — being evaluated for replacement/upgrade |
-| _(add NAS / mini PC here once decided)_ | | Currently evaluating UGREEN DXP2800 GT (NAS consolidation) vs. Lenovo ThinkCentre M920Q (stay on Proxmox) |
+| _(add NAS / mini PC here once decided)_ | | Currently evaluating UGREEN DXP2800 GT (NAS consolidation) vs. Lenovo ThinkCentre M920Q or HP EliteDesk 800 G4 (stay on Proxmox) |
 
 ---
 
