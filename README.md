@@ -17,13 +17,13 @@ Electronics engineer specialized in communications, 5+ years of experience, curr
 
 | Repo | What it covers | Stack |
 |---|---|---|
-| [`homelab-proxmox-infra`]([../homelab-proxmox-infra](https://github.com/emaro03/homelab-proxmox-infra)) | Hypervisor layer: Proxmox host, LXC container design, storage, backup strategy | Proxmox VE, LXC |
-| [`homelab-jellyfin-transcoding`](../homelab-jellyfin-transcoding) | Media server with Intel Quick Sync (QSV) hardware transcoding passthrough into an LXC | Jellyfin, Intel QSV, LXC |
-| [`homelab-arr-stack`](../homelab-arr-stack) | Full *arr media-automation stack | Docker Compose, Sonarr/Radarr/Prowlarr/etc. |
-| [`homelab-n8n-automation`](../homelab-n8n-automation) | Workflow automation running in the lab | n8n, Docker |
-| [`homelab-network-monitoring`](../homelab-network-monitoring) | Uptime monitoring across Cloudflare Tunnels and Tailscale | Uptime Kuma, Cloudflare Tunnel, Tailscale |
-| [`homelab-unifi-network`](../homelab-unifi-network) | Network layer: UniFi OS Server, VLANs, topology | UniFi OS Server |
-| [`homelab-home-assistant`](../homelab-home-assistant) | Smart home + a Zigbee mesh diagnostic audit (topology, LQI, single points of failure) | Home Assistant, Zigbee (ZHA/Z2M) |
+| [`homelab-proxmox-infra`](https://github.com/emaro03/homelab-proxmox-infra) | Hypervisor layer: Proxmox host, LXC container design, storage, backup strategy | Proxmox VE, LXC |
+| [`homelab-jellyfin-transcoding`](https://github.com/emaro03/homelab-jellyfin-transcoding) | Media server with Intel Quick Sync (QSV) hardware transcoding passthrough into an LXC | Jellyfin, Intel QSV, LXC |
+| [`homelab-arr-stack`](https://github.com/emaro03/homelab-arr-stack) | Full *arr media-automation stack | Docker Compose, Sonarr/Radarr/Prowlarr/etc. |
+| [`homelab-n8n-automation`](https://github.com/emaro03/homelab-n8n-automation) | Workflow automation running in the lab | n8n, Docker |
+| [`homelab-network-monitoring`](https://github.com/emaro03/homelab-network-monitoring) | Uptime monitoring across Cloudflare Tunnels and Tailscale | Uptime Kuma, Cloudflare Tunnel, Tailscale |
+| [`homelab-unifi-network`](https://github.com/emaro03/homelab-unifi-network) | Network layer: UniFi OS Server, VLANs, topology | UniFi OS Server |
+| [`homelab-home-assistant`](https://github.com/emaro03/homelab-home-assistant) | Smart home + a Zigbee mesh diagnostic audit (topology, LQI, single points of failure) | Home Assistant, Zigbee (ZHA/Z2M) |
 
 > Each repo can be read on its own — no need to clone all of them to understand one.
 
