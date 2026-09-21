@@ -51,7 +51,7 @@
 
 - **LXC vs. Docker VM:** Jellyfin runs in an LXC with QSV passthrough instead of a Docker container inside a VM, because passing an iGPU through to an LXC is lower-overhead than through a full VM — worth the extra setup complexity for transcoding performance.
 - **Tunnel/mesh VPN over port forwarding:** trades a small amount of latency/complexity for a meaningfully smaller attack surface — no inbound ports open on the WAN side at all.
-- **Currently under evaluation:** whether to consolidate everything onto a single NAS (UGREEN DXP2800 GT) vs. staying on Proxmox with a more capable mini PC (Lenovo ThinkCentre M920Q). Trade-off is operational simplicity vs. flexibility — see `homelab-proxmox-infra` for the live decision log.
+- **Currently under evaluation:** whether to consolidate everything onto a single NAS (UGREEN DXP2800 GT) vs. staying on Proxmox with a more capable mini PC (Lenovo ThinkCentre M920Q). Trade-off is operational simplicity vs. flexibility — see [`homelab-proxmox-infra`](https://github.com/emaro03/homelab-proxmox-infra) for the live decision log.
 
 ## Status
 
