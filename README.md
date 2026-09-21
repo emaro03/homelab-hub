@@ -10,7 +10,6 @@ This repository is the **index** for a set of small, focused repos — each one 
 
 Electronics engineer specialized in communications, 5+ years of experience, currently building and maintaining a self-hosted homelab as a way to keep hands-on with infrastructure, containerization, automation and networking outside of my day job. This repo exists to show *how* I design, document and operate systems — not just that I run them.
 
-📫 *[LinkedIn] · [Email] — add your links here*
 
 ---
 
@@ -18,7 +17,7 @@ Electronics engineer specialized in communications, 5+ years of experience, curr
 
 | Repo | What it covers | Stack |
 |---|---|---|
-| [`homelab-proxmox-infra`](../homelab-proxmox-infra) | Hypervisor layer: Proxmox host, LXC container design, storage, backup strategy | Proxmox VE, LXC |
+| [`homelab-proxmox-infra`]([../homelab-proxmox-infra](https://github.com/emaro03/homelab-proxmox-infra)) | Hypervisor layer: Proxmox host, LXC container design, storage, backup strategy | Proxmox VE, LXC |
 | [`homelab-jellyfin-transcoding`](../homelab-jellyfin-transcoding) | Media server with Intel Quick Sync (QSV) hardware transcoding passthrough into an LXC | Jellyfin, Intel QSV, LXC |
 | [`homelab-arr-stack`](../homelab-arr-stack) | Full *arr media-automation stack | Docker Compose, Sonarr/Radarr/Prowlarr/etc. |
 | [`homelab-n8n-automation`](../homelab-n8n-automation) | Workflow automation running in the lab | n8n, Docker |
